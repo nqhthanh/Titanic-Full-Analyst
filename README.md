@@ -13,11 +13,9 @@ This project involves analyzing the Titanic dataset to gain insights into the fa
 - **SHAP Analysis:** Utilizes SHAP values to interpret feature importance in model predictions.
 
 ## 🛠️ Installation
-
 1. Clone the repository:
    ```sh
-   git clone https://github.com/nqhthanh/Titanic_Analysis.git
-   cd Titanic_Analysis
+   git clone https://github.com/nqhthanh/Titanic-Full-Analyst.git
    ```
 
 ## 📊 Usage
